@@ -51,5 +51,5 @@ Resposta gerada: *Embeddings são representações numéricas de palavras ou fra
 
 ---
 
-**Autor:** PRIMEIRO NOME  
+**Autor:** rafael-fj
 **Desafio:** DIO — Criando um Chatbot Baseado em Conteúdo de PDFs
