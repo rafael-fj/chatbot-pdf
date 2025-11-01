@@ -1,0 +1,4 @@
+A inteligência artificial aplicada à análise de textos permite identificar padrões e gerar respostas contextualizadas.  
+Os embeddings transformam frases em vetores numéricos que representam o significado do texto.  
+Com buscas vetoriais, é possível encontrar informações semelhantes de forma semântica, mesmo que as palavras não coincidam exatamente.  
+O uso de IA generativa acelera a pesquisa científica e facilita o entendimento de grandes volumes de informação.
